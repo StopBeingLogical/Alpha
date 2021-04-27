@@ -1,3 +1,18 @@
 Project Alpha
 
 Personal Operating System
+
+Goal:
+Text-based interface for custom homebrewed computer
+
+Features Wanted:
+- Boot control
+- local filesystem
+- basic keyboard I/O
+- serial terminal
+- video terminal
+- hardware identification (pnp)
+- software registration system 
+- updates manager
+- utility manager
+.
